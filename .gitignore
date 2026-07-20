@@ -1,0 +1,6 @@
+/build/
+/isodir/
+*.o
+*.bin
+*.iso
+debug.log
